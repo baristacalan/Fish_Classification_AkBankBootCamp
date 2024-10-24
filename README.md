@@ -32,6 +32,7 @@
 ### The model can be fine-tuned further for more improvements if needed.
 # Conclusion
 ### This project demonstrates how transfer learning with ResNet50 can be applied to fish species classification, achieving high accuracy and solid generalization performance.
+### Link To my Kaggle Notebook: https://www.kaggle.com/code/bartaalan/fish-class-project
 
 # Citations
 @inproceedings{ulucan2020large, title={A Large-Scale Dataset for Fish Segmentation and Classification}, author={Ulucan, Oguzhan and Karakaya, Diclehan and Turkan, Mehmet}, booktitle={2020 Innovations in Intelligent Systems and Applications Conference (ASYU)}, pages={1--5}, year={2020}, organization={IEEE} }
